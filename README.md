@@ -1,4 +1,4 @@
-# CP-Profiler Installer - Instructions and items to deploy Cp Profiler installer
+### CP-Profiler Installer - Instructions and items to deploy Cp Profiler installer
 
 This README file help you to generate an installer for cp profiler depending on the operating system you have
 
