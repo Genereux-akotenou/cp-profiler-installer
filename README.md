@@ -43,6 +43,8 @@ This README file help you to generate an installer for cp profiler depending on 
 - Clean up the project from previous versions.
    
    <p align="center">
+    ![2](https://user-images.githubusercontent.com/64117719/168989686-5040e329-b97d-42ec-859f-809d6bd79522.png)
+
     <img width="300" height="300" src="https://github.com/iamklaus01/cp-profiler_installer/blob/assets/docs/images/installer_screenshots/2.png">
    </p>
    
