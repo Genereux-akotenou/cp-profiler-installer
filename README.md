@@ -36,7 +36,7 @@ This README file help you to generate an installer for cp profiler depending on 
  
  QMake should automatically generate a bundle for the application in the build folder. Nevertheless, it is recommended to explicitly add this in the .pro file.
  <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/64117719/168989269-68950d81-2e7f-4097-87cb-5736c4fb6c0f.png">
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/64117719/168989269-68950d81-2e7f-4097-87cb-5736c4fb6c0f.png">
 </p>
 
  **Step 2 :**
