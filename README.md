@@ -43,9 +43,7 @@ This README file help you to generate an installer for cp profiler depending on 
 - Clean up the project from previous versions.
    
    <p align="center">
-    ![2](https://user-images.githubusercontent.com/64117719/168989686-5040e329-b97d-42ec-859f-809d6bd79522.png)
-
-    <img width="300" height="300" src="https://github.com/iamklaus01/cp-profiler_installer/blob/assets/docs/images/installer_screenshots/2.png">
+    <img width="300" height="300" src="https://user-images.githubusercontent.com/64117719/168989686-5040e329-b97d-42ec-859f-809d6bd79522.png">
    </p>
    
 - Cleaning the project from previous versions is a good practice to avoid errors that could be related to other versions you have already made.
@@ -167,24 +165,24 @@ You will get a Distribution Kit folder in the debug folder of the build director
     - Launch Inno Setup and select the second option as in the screenshot below
    
     <p align="center">
-        <img width="300" height="200" src="https://github.com/iamklaus01/cp-profiler_installer/blob/assets/docs/images/installer_screenshots/3.png">
+        <img width="300" height="200" src="https://user-images.githubusercontent.com/64117719/168990474-168b6ecf-0afd-4a83-912e-fef8e7d9f6ca.png">
    </p>
    
     - Click on next then fill in the different fields with the corresponding values
    <p align="center">
-    <img width="300" height="200" src="https://github.com/iamklaus01/cp-profiler_installer/blob/assets/docs/images/installer_screenshots/4.png">
+    <img width="300" height="200" src="https://user-images.githubusercontent.com/64117719/168990594-df0b29fb-fc4f-4366-a797-d64e482a3f70.png">
    </p>
    
     - Click Next and choose a destination folder for the application, then the name of the application
      
    <p align="center">
-    <img width="300" height="200" src="https://github.com/iamklaus01/cp-profiler_installer/blob/assets/docs/images/installer_screenshots/5.png">
+    <img width="300" height="200" src="https://user-images.githubusercontent.com/64117719/168990713-62206b2e-f274-4716-ab08-9d6e46f76eaa.png">
    </p>
    
     - Click on Next then carry on.
      
   <p align="center">
-    <img width="300" height="200" src="https://github.com/iamklaus01/cp-profiler_installer/blob/assets/docs/images/installer_screenshots/6.png">
+    <img width="300" height="200" src="https://user-images.githubusercontent.com/64117719/168990829-f33e61b8-4520-41fe-acdb-92fd026b3e7e.png">
   </p>
    
    At this step (see screenshot above), enter the path to the generated executable in the Distribution Kit folder.
